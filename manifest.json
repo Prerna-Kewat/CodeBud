@@ -1,0 +1,16 @@
+{
+    "name": "CodeBud",
+    "version": "1.1.2",
+    "manifest_version": 2,
+    "description": "🌟 Introducing CodeBud: Your ultimate coding companion for Competitive Programming! 👨‍💻 Stay updated on live and upcoming contests across popular platforms like CodeChef, CodeForces, LeetCode, AtCoder, HackerRank, and  HackerEarth. 🏆 Level up your coding game with CodeBud!",
+    "browser_action": {
+        "default_popup": "popup.html",
+        "default_icon": "logo.png"
+    },
+    "icons": {
+        "128": "logo.png"
+    },
+    "permissions": [
+        "activeTab"
+    ]
+}
