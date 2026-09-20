@@ -1,5 +1,3 @@
-# CodeBud
-
 # CodeBud 👨‍💻
 
 **Your ultimate companion for competitive programming.**
